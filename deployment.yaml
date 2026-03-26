@@ -16,4 +16,4 @@ spec:
       - name: trend-container
         image: jagadishhak/project
         ports:
-        - containerPort: 3000
+        - containerPort: 80
