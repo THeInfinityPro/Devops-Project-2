@@ -2,14 +2,14 @@ pipeline {
     agent any
 
     environment {
-        IMAGE = "<your-dockerhub-username>/trend-static"
+        IMAGE = "jagadishhak/project"
     }
 
     stages {
 
         stage('Clone') {
             steps {
-                git 'https://github.com/<your-username>/repo.git'
+                git 'https://github.com/THeInfinityPro/Devops-Project-2.git'
             }
         }
 
@@ -36,3 +36,4 @@ pipeline {
         }
     }
 }
+
