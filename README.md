@@ -111,7 +111,7 @@ kubectl get svc
 Open in browser:
 
 ```
-http://<EXTERNAL-IP>
+http://af8048354768e4d5892273b811b8f1be-619988372.us-east-1.elb.amazonaws.com
 ```
 
 ---
