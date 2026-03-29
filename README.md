@@ -120,13 +120,29 @@ http://af8048354768e4d5892273b811b8f1be-619988372.us-east-1.elb.amazonaws.com
 
 ### ✅ Jenkins Pipeline Success
 
-![Pipeline](screenshots/pipeline-success.PNG)
+![Pipeline](screenshots/pipeline-stage-view.PNG)
 
 ---
 
 ### ✅ DockerHub Image
 
 ![Docker](screenshots/docker-image.PNG)
+
+---
+
+### ✅ Terraform deployed
+
+![Terraform](screenshots/terraform-code-deployed.PNG)
+
+---
+
+### ✅ Kubernetes Nodes
+
+```bash
+kubectl get nodes
+```
+
+![nodes](screenshots/nodes-running.PNG)
 
 ---
 
