@@ -192,4 +192,3 @@ eksctl delete cluster --name Project --region us-east-1
 DevOps Engineer (Fresher)
 Chennai, India 🇮🇳
 
----
