@@ -166,6 +166,10 @@ kubectl get svc
 
 ---
 
+### ✅ Grafana & Prometheus
+
+![Monitoring](screenshots/grafana&prometheus.PNG)
+
 ### ✅ Application Running
 
 ![Website](screenshots/output.PNG)
